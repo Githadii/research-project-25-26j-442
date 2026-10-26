@@ -4,7 +4,8 @@
 [![Research Group](https://img.shields.io/badge/Research%20Group-CoEAI-green)](https://github.com)
 [![Specialization](https://img.shields.io/badge/Specialization-Software%20Engineering-orange)](https://github.com)
 
-> **An AI-powered mobile decision support system that unifies predictive analytics, personalized nutrition, emergency response, and multilingual voice support to enhance pediatric healthcare.**
+> **An AI-powered mobile decision support system that unifies predictive analytics, personalized nutrition, emergency response, and multilingual voice support to enhance pediatric healthcare.
+publication - https://ieeexplore.ieee.org/document/11600063**
 
 ---
 
